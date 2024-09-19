@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/eye-solid.svg</file>
+        <file>assets/camera-solid.svg</file>
+        <file>assets/cloud-arrow-down-solid.svg</file>
+        <file>assets/eye-slash-solid.svg</file>
+        <file>assets/selector.PNG</file>
+    </qresource>
+</RCC>
